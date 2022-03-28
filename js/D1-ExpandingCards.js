@@ -1,3 +1,5 @@
+console.log("Holis, si estoy conectado");
+
 const panels = document.querySelectorAll(".panel");
 
 panels.forEach((panel) => {
@@ -12,4 +14,3 @@ function removeActiveClasses() {
     panel.classList.remove("active");
   });
 }
-console.log("Holis, si estoy conectado");
