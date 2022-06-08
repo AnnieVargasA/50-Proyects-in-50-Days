@@ -92,8 +92,8 @@ nav ul li img {
 .circle button img {
   width: 30px;
 }
-.container.show-nav .circle{
-  transform:rotate(-70deg)
+.container.show-nav .circle {
+  transform: rotate(-70deg);
 }
 .content img {
   max-width: 100%;
